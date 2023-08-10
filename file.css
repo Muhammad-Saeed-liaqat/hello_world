@@ -1,0 +1,95 @@
+.display-4{
+ font-family: "Sacramento, cursive";
+}
+h1{
+    color: 
+    #66bfbf;
+}
+
+.name{
+    background-color: #e4f9f5;
+    padding-top: 50px;
+    padding-right: 0%;
+    margin-right: 0%;
+    border-right: 0%;
+}
+
+.px-4{
+    /* height: 150px; */
+}
+
+.mb-4{
+    font-family: serif;
+    font-size:x-large;
+    color:  #66bfbf;
+}
+
+.imag-fluid{
+    height: 200px;
+}
+
+.pict{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    margin-left: 45%;
+}
+
+.hello{
+    margin-top: -5%;
+    padding-top: 0%;
+}
+.txt{
+    padding-top: 5%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.ex{
+    padding-right: 40%;
+}
+.cat{
+    color: #66bfbf;
+}
+.circle{
+    padding-left: 60%;
+}
+.skills{
+     padding-left: 50%;
+     padding-top: 10%;
+     padding-bottom: 5%;
+     color: #66bfbf;
+}
+.pool{
+    height: 220px;
+    padding-top: 5%;
+    padding-left: 60%;
+}
+.swim{
+    padding-top: 5%;
+    color: #66bfbf;
+}
+.Swimming{
+    padding-right: 40%;
+}
+.x1{
+    padding-top: 10%;
+}
+.py-3.my-4{
+    background-color:#66bfbf ;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+body{
+   padding-right: 0%;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    min-height: 100vh;
+}
+@media screen {
+    
+}
